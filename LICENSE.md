@@ -1,4 +1,4 @@
-# 
+# advanced Advanced SystemCare PC版 脚本 是最佳 Advanced SystemCare PC版 脚本，集成 筛选选项 和 Fancy Zones。安全、可靠、优化，性能最大化。
 
 
 
